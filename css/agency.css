@@ -17,6 +17,10 @@ a {
   color: #fed136;
 }
 
+#contact a {
+  color: #fbfbfb;
+}
+
 a:hover {
   color: #fec503;
 }
