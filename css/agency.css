@@ -322,6 +322,11 @@ header.masthead .intro-text .intro-heading {
 
 .portfolio-modal .modal-content {
   padding: 100px 0;
+  text-align: left;
+}
+
+.portfolio-modal .modal-content .center {
+  padding: 100px 0;
   text-align: center;
 }
 
